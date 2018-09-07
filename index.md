@@ -13,7 +13,7 @@ eos Dapp Navigator
 
 [southex](https://southex.com)&emsp;&emsp;&emsp;
 
-[southex](https://dexeos.io/trade)&emsp;&emsp;&emsp;
+[dexeos](https://dexeos.io/trade)&emsp;&emsp;&emsp;
 
 [买卖ipos](https://dapp.newdex.io/trade/ipos_eos)&emsp;&emsp;&emsp;
 
